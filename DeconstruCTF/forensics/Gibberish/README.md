@@ -4,4 +4,4 @@ Name: Gibberish<br>
 Points: 50<br>
 Description: `NASA receive a weird transmission yesterday but they were't able to decode it. I mean, it's just a bunch of gibberish. The only thing they have cracked was one word "goodbye". They have no clue what that means though. Can you help them?`<br>
 
-I downloaded the attached file flag.txt<br>
+I downloaded the attached file [flag.txt](https://github.com/azooztba/CTF-writeups/blob/main/DeconstruCTF/forensics/Gibberish/flag.txt)<br>
