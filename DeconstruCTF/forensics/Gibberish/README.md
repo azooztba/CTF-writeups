@@ -6,4 +6,4 @@ Description: `NASA receive a weird transmission yesterday but they were't able t
 
 I downloaded the attached file [flag.txt](https://github.com/azooztba/CTF-writeups/blob/main/DeconstruCTF/forensics/Gibberish/resourses/flag.txt). after looking at the contents of the file it looked like it have been encoded.<br>
 So i went to [cyberchef](https://cyberchef.org/) and used the magic tool on the file as in this img:<br>
-<img src="">
+<img src="https://github.com/azooztba/CTF-writeups/blob/main/DeconstruCTF/forensics/Gibberish/resources/cyberchef_screenshot.png">
