@@ -10,5 +10,5 @@ So i went to [cyberchef](https://cyberchef.org/) and used the <b>From Base64</b>
 press on save output to file.<br>
 I examined the [download.elf](https://github.com/azooztba/CTF-writeups/blob/main/DeconstruCTF/forensics/Gibberish/resources/download.elf) file in a text editor and i found this interesting text:<br>
 <img src="https://github.com/azooztba/CTF-writeups/blob/main/DeconstruCTF/forensics/Gibberish/resources/ELF_screenshot.png"><br>
-if we put it in the flag format we get:     <b>dsc{nc_c4n_4ls0_trnsmit_f1les}</b>
+if we put it in the flag format we get:     <b>dsc{nc_c4n_4ls0_trnsmit_f1les}</b><br>
 thank you for reading :)
